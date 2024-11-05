@@ -198,7 +198,7 @@ document.addEventListener("DOMContentLoaded", function () {
   // Logout button functionality
   const logoutButton = document.getElementById("logout-button");
   logoutButton.addEventListener("click", () => {
-    window.location.href = "../index.html";
+    window.location.href = "https://evsucapstone.github.io/GISPortal/";
   });
   // Toggle the table container
 
